@@ -56,7 +56,7 @@ const Phonebook = ({ addContact }) => {
         required
       />
       <label className={s.label} htmlFor={phoneNumberInputId}>
-        Phone Number
+        Phone Number &#9742;
       </label>
       <input
         className={s.input}

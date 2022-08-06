@@ -15,7 +15,7 @@ const Contact = ({ name, number, id, deleteBtnHandler }) => {
         data-id={id}
         onClick={deleteBtnHandler}
       >
-        Delete
+        Delete &#10005;
       </button>
     </li>
   );
